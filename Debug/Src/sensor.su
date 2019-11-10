@@ -1,0 +1,7 @@
+sensor.c:40:6:tombolrunstop	8	static
+sensor.c:74:6:tombolreset	8	static
+sensor.c:111:6:sensor1	48	static
+sensor.c:178:6:sensor2	48	static
+sensor.c:242:6:sensor3	48	static
+sensor.c:308:6:kirim_lcd	48	static
+sensor.c:355:6:HAL_TIM_PeriodElapsedCallback	8	static
